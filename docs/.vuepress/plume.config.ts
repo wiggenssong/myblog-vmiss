@@ -3,10 +3,9 @@ import { defineThemeConfig } from 'vuepress-theme-plume'
 export default defineThemeConfig({
   // 侧边栏个人资料卡片（博客页右侧）
   profile: {
-    // TODO: 待作者提供真实信息后替换
-    name: '博主昵称',
-    description: '一句话简介',
-    avatar: '/avatar.png', // 将头像放到 .vuepress/public/avatar.png
+    name: 'wiggens',
+    description: '日常记录',
+    avatar: '/avatar.jpg', // 头像图片在 .vuepress/public/avatar.jpg
     circle: true,
     layout: 'right',
   },
@@ -41,8 +40,7 @@ export default defineThemeConfig({
 
   // 页脚
   footer: {
-    // TODO: 待作者提供真实信息后替换
     message: '用 ❤️ 与 VuePress & Plume 构建',
-    copyright: '© 2026 博主昵称',
+    copyright: '© 2026 wiggens',
   },
 })

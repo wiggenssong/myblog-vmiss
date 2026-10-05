@@ -6,9 +6,8 @@ export default defineUserConfig({
   // 站点语言
   lang: 'zh-CN',
 
-  // TODO: 待作者提供真实信息后替换
-  title: '我的博客',
-  description: '记录思考与生活的地方',
+  title: '日常记录',
+  description: '日常记录',
 
   // 站点图标（把图标放到 .vuepress/public/ 下）
   head: [

@@ -4,8 +4,8 @@ config:
   - type: hero
     full: true
     hero:
-      name: 我的博客
-      tagline: 记录思考与生活的地方
+      name: 日常记录
+      tagline: 日常记录
       actions:
         - text: 📝 开始阅读
           link: /blog/
@@ -17,7 +17,7 @@ config:
     features:
       - title: 文章
         icon: 📚
-        details: 记录学习、工作与生活的点滴
+        details: 记录生活的点滴
         link: /blog/
       - type: profile
 ---
