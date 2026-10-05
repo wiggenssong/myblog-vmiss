@@ -13,6 +13,8 @@ export default defineUserConfig({
   // 站点图标（把图标放到 .vuepress/public/ 下）
   head: [
     // ['link', { rel: 'icon', href: '/favicon.svg' }],
+    // 不蒜子访问统计脚本
+    ['script', { async: '', src: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js' }],
   ],
 
   // 使用 Vite 作为构建工具
