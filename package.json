@@ -1,0 +1,16 @@
+{
+  "name": "my-blog",
+  "version": "0.1.0",
+  "private": true,
+  "description": "个人博客",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.31",
+    "typescript": "^7.0.2",
+    "vuepress": "^2.0.0-rc.31",
+    "vuepress-theme-plume": "^1.0.0-rc.212"
+  }
+}
