@@ -4,7 +4,7 @@ createTime: 2026/10/03 09:00:00
 tags:
   - VuePress
   - 前端
-permalink: /blog/5nwjl7vy/
+permalink: /blog/tech/vuepress-plume-intro/
 ---
 
 # VuePress 与 Plume 主题初体验

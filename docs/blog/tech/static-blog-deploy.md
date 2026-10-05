@@ -5,7 +5,7 @@ tags:
   - 部署
   - Nginx
   - Linux
-permalink: /blog/ob8djywr/
+permalink: /blog/tech/static-blog-deploy/
 ---
 
 # 静态博客部署到 VPS 的小结

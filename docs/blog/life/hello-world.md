@@ -4,7 +4,7 @@ createTime: 2026/10/01 10:00:00
 tags:
   - 随笔
   - 开始
-permalink: /blog/bjht6wdx/
+permalink: /blog/life/hello-world/
 ---
 
 # 我的第一篇文章
